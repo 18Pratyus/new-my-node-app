@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
 
     res.writeHead(200, { "Content-Type": "text/html" });
 
-    res.end("<h2>Hello ! This is Pratyus from Node.js and  have successfully implemnented GithuACtion CI/CD 🚀</h2>");
+    res.end("<h2>Hello ! This is Pratyus from Node.js and  have successfully implemnented GithuACtion CI/CD. 🚀</h2>");
 
 });
 
